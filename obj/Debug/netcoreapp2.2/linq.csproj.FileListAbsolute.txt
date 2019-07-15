@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/exercises/linq/bin/Debug/netcoreapp2.2/linq.deps.json
+/Users/dekhaji/workspace/csharp/exercises/linq/bin/Debug/netcoreapp2.2/linq.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/exercises/linq/bin/Debug/netcoreapp2.2/linq.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/exercises/linq/bin/Debug/netcoreapp2.2/linq.dll
+/Users/dekhaji/workspace/csharp/exercises/linq/bin/Debug/netcoreapp2.2/linq.pdb
+/Users/dekhaji/workspace/csharp/exercises/linq/obj/Debug/netcoreapp2.2/linq.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/exercises/linq/obj/Debug/netcoreapp2.2/linq.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/exercises/linq/obj/Debug/netcoreapp2.2/linq.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/exercises/linq/obj/Debug/netcoreapp2.2/linq.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/exercises/linq/obj/Debug/netcoreapp2.2/linq.dll
+/Users/dekhaji/workspace/csharp/exercises/linq/obj/Debug/netcoreapp2.2/linq.pdb
